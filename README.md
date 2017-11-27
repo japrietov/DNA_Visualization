@@ -6,7 +6,7 @@ This is the supplementary material for __"DNA Visualization using the Codeword D
 
 To improve the visualization of the notebook, [nbviewer](http://nbviewer.jupyter.org/) was used to render it.
 
-- [DNA Vizualization - Documentation](http://nbviewer.jupyter.org/github/japrietov/DNA_Visualization/blob/master/DNA_Visualization%20-%20Documentation.ipynb)
+- [DNA Vizualization - Documentation](http://nbviewer.jupyter.org/github/japrietov/DNA_Visualization/blob/master/DNA_Visualization-Documentation.ipynb)
 
 Also a short presentation was made to present in the [Visual Computing](https://visualcomputing.github.io/) course.
 
